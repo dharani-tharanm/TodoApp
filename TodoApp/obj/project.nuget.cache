@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uadlWARUTlw=",
+  "dgSpecHash": "qarMqGZAbQs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\TodoApp.csproj",
+  "projectFilePath": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\TodoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\z004yw6y\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\z004yw6y\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\8.0.7\\microsoft.aspnetcore.mvc.testing.8.0.7.nupkg.sha512",

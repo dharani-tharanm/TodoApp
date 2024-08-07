@@ -1,32 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\",
+  "WorkspaceRootPath": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_mvc\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\gitsandboxkt\\todoapp\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_mvc\\todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\gitsandboxkt\\todoapp\\todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|solutionrelative:views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69EEDEAC-B3B4-4389-A7B4-9952E90272DE}|..\\TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_mvc\\todoapp.tests\\todoapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EEDEAC-B3B4-4389-A7B4-9952E90272DE}|..\\TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_mvc\\todoapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_mvc\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\gitsandboxkt\\todoapp\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_mvc\\todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\gitsandboxkt\\todoapp\\todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|solutionrelative:views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_mvc\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|c:\\users\\z004yw6y\\git\\devops\\gitsandboxkt\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD4DCA8C-67C8-499D-A2FD-6AAC0B5B4083}|TodoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\TodoApp.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,76 +40,71 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TodoApp.Tests",
+              "DocumentIndex": 5,
+              "Title": "TodoApp.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\TodoApp.Tests.csproj",
-              "RelativeDocumentMoniker": "..\\TodoApp.Tests\\TodoApp.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\TodoApp.Tests.csproj",
               "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\TodoApp.Tests.csproj",
-              "RelativeToolTip": "..\\TodoApp.Tests\\TodoApp.Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\TodoApp.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-06T04:59:37.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\TodoApp.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\TodoApp.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T04:54:51.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T04:59:37.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T04:21:19.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T04:54:51.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:21:19.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Todo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
               "RelativeToolTip": "Views\\Todo\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T18:04:07.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T18:04:07.518Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Views\\Todo\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Todo\\Create.cshtml",
-              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Views\\Todo\\Create.cshtml",
               "RelativeToolTip": "Views\\Todo\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T18:03:29.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T18:03:29.085Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TodoController.cs",
-              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Controllers\\TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
-              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
               "RelativeToolTip": "Controllers\\TodoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,16 +113,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Todo.cs",
-              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Models\\Todo.cs",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "Models\\Todo.cs",
-              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp\\Models\\Todo.cs",
               "RelativeToolTip": "Models\\Todo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:59:25.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T17:59:25.289Z"
             }
           ]
         }

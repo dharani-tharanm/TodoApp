@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/kUbv8Cpq8I=",
+  "dgSpecHash": "/mDbMj+SFjM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_mvc\\TodoApp.Tests\\TodoApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\z004yw6y\\Git\\Devops\\GitSandboxKT\\TodoApp\\TodoApp.Tests\\TodoApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\z004yw6y\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\z004yw6y\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
